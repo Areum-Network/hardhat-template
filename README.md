@@ -1,4 +1,4 @@
-# Areon Hardhat Template
+# Areum Hardhat Template
 
 ```
 yarn
